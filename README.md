@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Home
+# Home | Readme
 
 Hey brother
 
